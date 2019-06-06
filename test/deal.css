@@ -1,0 +1,12 @@
+.test {
+    background-image: url('some src');
+    color: red;
+    background-color: rgb(87, 94, 87)
+     /*overflow: hidden;*/
+}
+
+
+p .test {
+    color: blue;
+}
+
